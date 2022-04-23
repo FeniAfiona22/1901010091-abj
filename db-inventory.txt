@@ -1,0 +1,2 @@
+Nama Perangkat : cisco router, 	 lokasi : lantai 1
+Nama Perangkat : router ZTE, 	 lokasi : lantai 2
